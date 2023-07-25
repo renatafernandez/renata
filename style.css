@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(183, 255, 227, 0.767);
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+}
+
+p{
+    font-size: 20pt;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1{
+    font-size: 30pt;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
