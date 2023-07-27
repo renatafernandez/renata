@@ -19,3 +19,23 @@ h1{
     font-size: 30pt;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.topnav{
+    background-color: blanchedalmond;
+    overflow: hidden;
+}
+
+.topnav a{
+    float: left;
+    color: rgb(52, 125, 128);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.topnav a:hover{
+    background-color: aliceblue;
+    color: black;
+}
